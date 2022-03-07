@@ -20,3 +20,16 @@ Basic
 - password 미일치시
 ![Delete password](/img/mission2/08.png)
 
+## 3차 미션 스크린샷
+Basic
+- Find By UserName
+![sample01](/img/mission3/01.png)
+- Read Post
+![sample02](/img/mission3/02.png)
+- Create Post and Update
+![sample03](/img/mission3/03.png)
+- Select All (Inner Join)
+![sample04](/img/mission3/04.png)
+- Select ById (Inner Join)
+![sample05](/img/mission3/05.png)
+
