@@ -1,12 +1,10 @@
 package dev.rumblekat.mission4.entity;
 
 import dev.rumblekat.mission4.utils.ResidenceUtil;
-import org.apache.catalina.User;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.context.annotation.Bean;
 
 import javax.transaction.Transactional;
 import java.util.ArrayList;
